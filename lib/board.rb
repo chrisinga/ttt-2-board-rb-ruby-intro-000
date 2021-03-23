@@ -1,1 +1,2 @@
-my_game = "board"# Define the variable board below.
+board = "get_variable_from_file" # Define the variable board below.
+board = [" "," "," "," "," "," "," "," "," "]
